@@ -1,140 +1,140 @@
 <?php
 $dischi = [
     [
-        "copertina" => "link_to_cover_image1.jpg",
+        "copertina" => "src/img/dark-side-of-the-moon.jpg",
         "titolo_album" => "The Dark Side of the Moon",
         "artista" => "Pink Floyd",
         "genere_musicale" => "Progressive Rock",
         "anno_uscita" => 1973
     ],
     [
-        "copertina" => "link_to_cover_image2.jpg",
+        "copertina" => "src/img/master-of-puppets.jpg",
         "titolo_album" => "Master of Puppets",
         "artista" => "Metallica",
         "genere_musicale" => "Thrash Metal",
         "anno_uscita" => 1986
     ],
     [
-        "copertina" => "link_to_cover_image3.jpg",
+        "copertina" => "src/img/back-in-black.jpg",
         "titolo_album" => "Back in Black",
         "artista" => "AC/DC",
         "genere_musicale" => "Hard Rock",
         "anno_uscita" => 1980
     ],
     [
-        "copertina" => "link_to_cover_image4.jpg",
+        "copertina" => "src/img/paranoid.jpg",
         "titolo_album" => "Paranoid",
         "artista" => "Black Sabbath",
         "genere_musicale" => "Heavy Metal",
         "anno_uscita" => 1970
     ],
     [
-        "copertina" => "link_to_cover_image5.jpg",
+        "copertina" => "src/img/led-zeppelin-iv.jpg",
         "titolo_album" => "Led Zeppelin IV",
         "artista" => "Led Zeppelin",
         "genere_musicale" => "Rock",
         "anno_uscita" => 1971
     ],
     [
-        "copertina" => "link_to_cover_image6.jpg",
+        "copertina" => "src/img/a-night-at-opera.jpg",
         "titolo_album" => "A Night at the Opera",
         "artista" => "Queen",
         "genere_musicale" => "Rock",
         "anno_uscita" => 1975
     ],
     [
-        "copertina" => "link_to_cover_image7.jpg",
+        "copertina" => "src/img/nevermind.jpg",
         "titolo_album" => "Nevermind",
         "artista" => "Nirvana",
         "genere_musicale" => "Grunge",
         "anno_uscita" => 1991
     ],
     [
-        "copertina" => "link_to_cover_image8.jpg",
+        "copertina" => "src/img/appetite-for-destruction.jpg",
         "titolo_album" => "Appetite for Destruction",
         "artista" => "Guns N' Roses",
         "genere_musicale" => "Hard Rock",
         "anno_uscita" => 1987
     ],
     [
-        "copertina" => "link_to_cover_image9.jpg",
+        "copertina" => "src/img/the-number-of-the-beast.jpg",
         "titolo_album" => "The Number of the Beast",
         "artista" => "Iron Maiden",
         "genere_musicale" => "Heavy Metal",
         "anno_uscita" => 1982
     ],
     [
-        "copertina" => "link_to_cover_image10.jpg",
+        "copertina" => "src/img/hotel-california.jpg",
         "titolo_album" => "Hotel California",
         "artista" => "Eagles",
         "genere_musicale" => "Rock",
         "anno_uscita" => 1976
     ],
     [
-        "copertina" => "link_to_cover_image11.jpg",
+        "copertina" => "src/img/highway-to-hell.jpg",
         "titolo_album" => "Highway to Hell",
         "artista" => "AC/DC",
         "genere_musicale" => "Hard Rock",
         "anno_uscita" => 1979
     ],
     [
-        "copertina" => "link_to_cover_image12.jpg",
+        "copertina" => "src/img/rust-in-peace.jpg",
         "titolo_album" => "Rust in Peace",
         "artista" => "Megadeth",
         "genere_musicale" => "Thrash Metal",
         "anno_uscita" => 1990
     ],
     [
-        "copertina" => "link_to_cover_image13.jpg",
+        "copertina" => "src/img/ace-of-spades.jpg",
         "titolo_album" => "Ace of Spades",
         "artista" => "Motörhead",
         "genere_musicale" => "Heavy Metal",
         "anno_uscita" => 1980
     ],
     [
-        "copertina" => "link_to_cover_image14.jpg",
+        "copertina" => "src/img/black-album.jpg",
         "titolo_album" => "Black Album",
         "artista" => "Metallica",
         "genere_musicale" => "Heavy Metal",
         "anno_uscita" => 1991
     ],
     [
-        "copertina" => "link_to_cover_image15.jpg",
+        "copertina" => "src/img/toxicity.jpg",
         "titolo_album" => "Toxicity",
         "artista" => "System of a Down",
         "genere_musicale" => "Nu Metal",
         "anno_uscita" => 2001
     ],
     [
-        "copertina" => "link_to_cover_image16.jpg",
+        "copertina" => "src/img/reign-in-blood.jpg",
         "titolo_album" => "Reign in Blood",
         "artista" => "Slayer",
         "genere_musicale" => "Thrash Metal",
         "anno_uscita" => 1986
     ],
     [
-        "copertina" => "link_to_cover_image17.jpg",
+        "copertina" => "src/img/hysteria.jpg",
         "titolo_album" => "Hysteria",
         "artista" => "Def Leppard",
         "genere_musicale" => "Hard Rock",
         "anno_uscita" => 1987
     ],
     [
-        "copertina" => "link_to_cover_image18.jpg",
+        "copertina" => "src/img/british-steel.jpg",
         "titolo_album" => "British Steel",
         "artista" => "Judas Priest",
         "genere_musicale" => "Heavy Metal",
         "anno_uscita" => 1980
     ],
     [
-        "copertina" => "link_to_cover_image19.jpg",
+        "copertina" => "src/img/blizzard-of-ozz.jpg",
         "titolo_album" => "Blizzard of Ozz",
         "artista" => "Ozzy Osbourne",
         "genere_musicale" => "Heavy Metal",
         "anno_uscita" => 1980
     ],
     [
-        "copertina" => "link_to_cover_image20.jpg",
+        "copertina" => "src/img/ten.jpg",
         "titolo_album" => "Ten",
         "artista" => "Pearl Jam",
         "genere_musicale" => "Grunge",

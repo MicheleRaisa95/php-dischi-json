@@ -15,6 +15,21 @@
                 <h1>{{title}}</h1>
             </div>
         </header>
+
+        <main>
+          <div class="container">
+           <div class="row">
+             <div v-for="disco in dischi" :key="disco.titolo_album" class="col-md-4 mb-4">
+                <div class="card h-100">
+                    <img :src="disco.copertina" class="card-img-top" :alt="disco.titolo_album">
+                    <div class="card-body">
+                        <h5 class="card-title">{{ disco.titolo_album }}</h5>
+                        <p class="card-text">{{ disco.artista }}</p>
+                        <p class="card-text"><small class="text-muted">{{ disco.genere_musicale }} - {{ disco.anno_uscita }}</small></p>
+                    </div>
+           </div>
+          </div>
+    </main>
     </div>
 
     <!-- vue -->
